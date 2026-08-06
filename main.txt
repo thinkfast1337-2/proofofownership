@@ -1,0 +1,11 @@
+Hi!
+
+Some unfortunate shenanigans occured, and I have been locked out of my GitHub Mobile (Phone broke, unfortunately!)
+To make matters worse, I also had my authenticator on said phone - and as such, I can't access that, either...
+To make matters REALLY worse, I'm currently very far away from my computer which IS logged into GitHub, and I won't be able to access it for about a month.
+
+HOWEVER, I am still logged in from my GitHub Desktop app.
+Since I don't have ANYTHING that can let me log in to GitHub, I'm writing this text file, as well as making this repo, as an attempt to show that this is, in fact, my account.
+I'll write a support ticket made a bit later to (hopefully) be able to recover this account.
+
+Thanks for taking the time to read this! If you're not GitHub Support I don't know why you'd be reading this but thanks nontheless!
